@@ -1,2 +1,2 @@
 # disclosure
->R package to facilitate IJCME conflict of interest disclosures
+>R package to facilitate ICMJE conflict of interest disclosures
