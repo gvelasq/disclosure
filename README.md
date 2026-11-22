@@ -1,2 +1,2 @@
-# journaltools
-R package to facilitate journal submissions
+# disclosure
+>R package to facilitate IJCME conflict of interest disclosures
